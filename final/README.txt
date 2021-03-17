@@ -1,1 +1,1 @@
-https://github.com/Advanced-Java-1/final-proje
+https://github.com/Advanced-Java-1/final_java
